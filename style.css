@@ -11,47 +11,48 @@ body {
   background-attachment: fixed;
 /* Gradient */
   background-color: #d19e80;
-  background-image: linear-gradient(62deg, #f5f7fa 0%, #c3cfe2 100%);
+  background-image: linear-gradient(45deg, #361D2E 0%, #586F7C 90%);
 }
 
 h1 {
-  font-size: 2em;
+  font-size: 3em;
   font-family: "Sans-Seriff", Helvetica, sans-serif;
-  color: #303030;
-  margin-left: 20px;
+  color: #F7E4DE;
 }
 
 h2 {
-  font-size: 1.75em;
+  font-size: 2.5em;
   font-family: "Sans-Seriff", Noto, sans-serif;
-  color: black;
-  margin-left: 20px;
+  color: #F7E4DE;
 }
 
 h3 {
-  font-size: 1.5em;
+  font-size: 2em;
   font-family: "Sans-Seriff", Noto, sans-serif;
-  color: black;
-  margin-left: 20px;
+  color: #F7E4DE;
 }
 
 h4 {
-  font-size: 1.25em;
+  font-size: 1.5em;
   font-family: "Sans-Seriff", Noto, sans-serif;
-  color: black;
-  margin-left: 20px;
+  color: #F7E4DE;
 }
 
 h5 {
   font-size: 1em;
   font-family: "Sans-Seriff", Noto, sans-serif;
-  color: black;
-  margin-left: 20px;
+  color: #F7E4DE;
 }
 
 h6 {
-  font-size: .75em;
+  font-size: .5em;
   font-family: "Sans-Seriff", Noto, sans-serif;
-  color: black;
-  margin-left: 20px;
+  color: #F7E4DE;
+}
+
+.intro {
+  padding-top: 25vw;
+  padding-right: 20vw;
+  padding-bottom: 25vw;
+  padding-left: 20vw;
 }
