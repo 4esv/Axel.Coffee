@@ -1,3 +1,16 @@
+/* Scroll Bar */
+::-webkit-scrollbar {
+  width: 10px;
+}
+::-webkit-scrollbar-track {
+  box-shadow: inset 0 0 5px grey;
+  border-radius: 10px;
+}
+::-webkit-scrollbar-thumb {
+  background: #2E3349;
+  border-radius: 10px;
+}
+
 
 html {
     height: 100%;
@@ -10,44 +23,44 @@ body {
   background-repeat: no-repeat;
   background-attachment: fixed;
 /* Gradient */
-  background-color: #d19e80;
-  background-image: linear-gradient(45deg, #361D2E 0%, #586F7C 90%);
+  background-color: #EFDCD1;
+  background-image: linear-gradient(30deg, #2E3349 0%, #302627 80%);
 }
 
 h1 {
   font-size: 3em;
   font-family: "Sans-Seriff", Helvetica, sans-serif;
-  color: #F7E4DE;
+  color: #EFDCD1;
 }
 
 h2 {
   font-size: 2.5em;
   font-family: "Sans-Seriff", Noto, sans-serif;
-  color: #F7E4DE;
+  color: #EFDCD1;
 }
 
 h3 {
   font-size: 2em;
   font-family: "Sans-Seriff", Noto, sans-serif;
-  color: #F7E4DE;
+  color: #EFDCD1;
 }
 
 h4 {
   font-size: 1.5em;
   font-family: "Sans-Seriff", Noto, sans-serif;
-  color: #F7E4DE;
+  color: #EFDCD1;
 }
 
 h5 {
   font-size: 1em;
   font-family: "Sans-Seriff", Noto, sans-serif;
-  color: #F7E4DE;
+  color: #EFDCD1;
 }
 
 h6 {
   font-size: .5em;
   font-family: "Sans-Seriff", Noto, sans-serif;
-  color: #F7E4DE;
+  color: #EFDCD1;
 }
 
 .intro {
