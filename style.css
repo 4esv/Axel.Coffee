@@ -33,7 +33,7 @@ header {
   font-size: 64px;
   text-transform: uppercase;
   text-align: center;
-  font-family: "Courier",  monospace;
+  font-family: "Courier New",  monospace;
   font-weight: 900;
 }
 
@@ -99,38 +99,42 @@ body {
   background-color: #EAD0C2;
 }
 
+p {
+  line-height:1.5
+  }
+
 h1 {
   font-size: 3em;
-  font-family: "Sans-Seriff", Helvetica, sans-serif;
+  font-family: "Tahoma", sans-serif;
   color: #221B1D;
 }
 
 h2 {
   font-size: 2.5em;
-  font-family: "Sans-Seriff", Noto, sans-serif;
+  font-family: "Tahoma", sans-serif;
   color: #221B1D;
 }
 
 h3 {
   font-size: 2em;
-  font-family: "Sans-Seriff", Noto, sans-serif;
+  font-family: "Tahoma", sans-serif;
   color: #221B1D;
 }
 
 h4 {
   font-size: 1.5em;
-  font-family: "Sans-Seriff", Noto, sans-serif;
+  font-family: "Tahoma", sans-serif;
   color: #221B1D;
 }
 
 h5 {
   font-size: 1em;
-  font-family: "Sans-Seriff", Noto, sans-serif;
+  font-family: "Tahoma", sans-serif;
   color: #221B1D;
 }
 
 h6 {
   font-size: .5em;
-  font-family: "Sans-Seriff", Noto, sans-serif;
+  font-family: "Tahoma", sans-serif;
   color: #221B1D;
 }
