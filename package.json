@@ -1,0 +1,29 @@
+{
+  "name": "axel.coffee",
+  "version": "2.0.0",
+  "description": "Coffee themed site built with 11ty",
+  "main": "index.html",
+  "scripts": {
+    "start": "eleventy --serve",
+    "build": "eleventy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/4esv/Axel.Coffee.git"
+  },
+  "keywords": [
+    "Coffee",
+    "espresso",
+    "mocha",
+    "cappuccino",
+    "coffee maker",
+    "latte"],
+  "author": "Axel Stevens",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/4esv/Axel.Coffee/issues"
+  },
+  "dependencies": {
+  "@11ty/eleventy": "^0.11.1"
+  }
+}
