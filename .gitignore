@@ -1,13 +1,24 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
 
-# dependencies installed by npm
 node_modules
+dist
+dist-ssr
+*.local
 
-# build artifacts
-public
-
-# secrets and errors
-.env
-.log
-
-# macOS related files
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
 .DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
